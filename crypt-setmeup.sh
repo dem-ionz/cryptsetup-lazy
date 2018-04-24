@@ -17,3 +17,5 @@ make install
 echo "Should be Installed now!"
 echo "Running cryptsetup command to check."
 echo "If you see output you're good. :)"
+cryptsetup
+echo "https://www.nullsoul.pw/"
